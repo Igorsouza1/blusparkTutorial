@@ -20,7 +20,7 @@ body{
 
 .content{
     padding: 2rem;
-    margin: 4rem 2rem;
+    margin: 4rem auto;
     border: 1px solid black;
     border-radius: 10px;
     max-width: 90%;
