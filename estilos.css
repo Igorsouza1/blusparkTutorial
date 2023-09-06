@@ -51,8 +51,12 @@ body{
 @media (min-width: 1301px) {
 
     .content{
-        margin: 4rem 8rem;
+        margin: 4rem 16rem;
         text-align: center;
+    }
+
+    .text-content{
+        padding: 2rem 8rem;
     }
 
 
